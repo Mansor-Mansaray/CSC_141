@@ -1,4 +1,4 @@
-...
+
 
 
 # If I had infinite skill in programming I would most likely create the first-ever real-time
@@ -8,5 +8,3 @@
 # be a great thing to check on police officer mental State and to check if they are fit to be 
 # on the feild or even be in the office.
 
-
-...
