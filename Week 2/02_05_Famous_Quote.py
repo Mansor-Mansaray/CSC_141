@@ -1,0 +1,1 @@
+print("\tGenghis Khan once said:\nI am the punishment of God... if you had not committed great sins, \nGod would not have sent a punishment like me upon you.")
