@@ -1,4 +1,4 @@
-...
+
 
 #I like the success stories that are shown
 #specifically the one for the art section
@@ -11,4 +11,3 @@
 #multiple challenges that will come up and will 
 #takedown in the future.
 
-...
