@@ -1,5 +1,5 @@
 Message = " Good Morning, Joker!"
-Message = "What a beutiful day."
+Message = "What a beautiful day."
 print(Message)
 
 first_name = "Heath"
@@ -11,4 +11,4 @@ name = "Heath Ledger"
 print(name.upper())
 print(name.lower())
 
-Print("Heath Ledger once said:\n If you're good at something never do it for free")
+print("Heath Ledger once said:\n If you're good at something never do it for free")
