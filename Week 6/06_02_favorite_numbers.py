@@ -1,0 +1,11 @@
+favorite_number = {'max': '22', 'kevin': '30', 'pedro': '49', 'ian': '3', 'otto': '7'}
+print('max')
+print(favorite_number['max'])
+print('kevin')
+print(favorite_number['kevin'])
+print('pedro')
+print(favorite_number['pedro'])
+print('ian')
+print(favorite_number['ian'])
+print('otto')
+print(favorite_number['otto'])
