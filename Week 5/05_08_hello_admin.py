@@ -1,4 +1,4 @@
-users = ['David', 'Becca', 'Josh', 'Admin', 'linda']
+users = ['David', 'Becca', 'Josh', 'Admin', 'Linda']
 
 for user in users:
  if user == 'Admin':
